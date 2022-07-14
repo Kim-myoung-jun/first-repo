@@ -191,7 +191,7 @@ public class BootSpringBootApplication {
 }
 ```
 
-# 수평선 '''<hr/>'''
+# 수평선 ```<hr/>```
 
 ```
 * * *
